@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_firebase_authentication_navigation">
+        FirebaseAuthenticationNavigation
+    </string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="successfull_logged_out">You are successfully logged out</string>
+    <string name="explore_with_compose">Explore Firebase Authentication\nwith Compose!</string>
+    <string name="or">or</string>
+    <string name="fill_password">Please fill password field</string>
+    <string name="password_six_charac">Password must more than 6 character</string>
+    <string name="email_cannot_empty">Please fill email field</string>
+    <string name="wrong_email_format">Wrong email Format</string>
+    <string name="already_have_an_account">"Already have an account. "</string>
+</resources>
